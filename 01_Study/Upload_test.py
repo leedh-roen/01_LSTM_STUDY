@@ -1,3 +1,0 @@
-print('Github 업로드용 테스트 파일!')  
-print("It's fun!") 
-print('왜 아뜨지?')
